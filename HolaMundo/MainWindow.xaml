@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Hola Mundo" Height="450" Width="800">
     <Grid>
+        <!-- Esto es un comentario. -->
         <TextBlock 
             x:Name="saludoTextBlock"
             HorizontalAlignment="Left" 
